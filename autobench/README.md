@@ -118,6 +118,8 @@ After everything has been installed and configured, the virtual machine must be 
 
 * Plotting graphs based on CSV tables
 
+### Fio tests
+
 ### License
 
 GNU General Public License v2.0
